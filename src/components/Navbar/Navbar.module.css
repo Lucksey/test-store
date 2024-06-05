@@ -1,0 +1,18 @@
+.nav {
+    background-color: azure;
+    padding: 20px;
+
+}
+
+.item a {
+    color: green;
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid black;
+
+}
+
+.wrapper {
+    display: flex;
+
+}

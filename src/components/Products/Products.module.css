@@ -1,0 +1,36 @@
+.wrapper {
+    padding: 20px;
+}
+
+.productImage {
+    height: 100px;
+}
+
+.product {
+    border: 1px solid black;
+    height: 200px;
+    width: 250px;
+    overflow: auto;
+
+
+}
+
+.products {
+    border: 1px solid red;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.price {
+    font-weight: bold;
+    color: green;
+}
+
+.title {
+    font-weight: revert ;
+    color: blue;
+}

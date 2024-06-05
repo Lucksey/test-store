@@ -1,5 +1,12 @@
+.app-wrapper {
+  display: grid;
+  width: 1200px;
+
+}
+
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -22,6 +29,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  width: 1200px;
 }
 
 .App-link {
